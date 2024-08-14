@@ -5,11 +5,9 @@
 
 # Table of Contents
 
-[What is a Composite Image?
-[1](#what-is-a-composite-image)](#what-is-a-composite-image)
+[What is a Composite Image?](#what-is-a-composite-image)
 
-[Creating a Composite Image
-[1](#creating-a-composite-image)](#creating-a-composite-image)
+[Creating a Composite Image](#creating-a-composite-image)
 
 # What is a Composite Image?
 
