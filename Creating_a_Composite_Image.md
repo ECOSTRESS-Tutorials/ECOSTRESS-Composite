@@ -26,20 +26,20 @@ also help compare changes over time.
     Folder**. Name your new folder so that you know it is the main
     project folder.
 
-<img src="13-Creating_a_Composite_Image_images/media/image1.png"
+<img src="Creating_a_Composite_Image_images/media/image1.png"
 style="width:4.36603in;height:2.78241in"
 alt="Graphical user interface, application, Word Description automatically generated" />
 
 3.  **Move** the **downloaded code** file into the project folder.
 
-<img src="13-Creating_a_Composite_Image_images/media/image2.png"
+<img src="Creating_a_Composite_Image_images/media/image2.png"
 style="width:4.84295in;height:3.0791in"
 alt="Graphical user interface, application, Word Description automatically generated" />
 
 4.  **Move** the folder with your QCed or cloud masked **ECOSTRESS
     data** into the project folder.
 
-<img src="13-Creating_a_Composite_Image_images/media/image3.png"
+<img src="Creating_a_Composite_Image_images/media/image3.png"
 style="width:5.03281in;height:3.21218in"
 alt="Graphical user interface, application Description automatically generated" />
 
@@ -57,7 +57,7 @@ files’ naming structure.
 6.  In the project folder, create a new **sub folder** to store the
     completed composite image.
 
-<img src="13-Creating_a_Composite_Image_images/media/image4.png"
+<img src="Creating_a_Composite_Image_images/media/image4.png"
 style="width:4.87878in;height:3.10449in"
 alt="Graphical user interface, application Description automatically generated" />
 
@@ -65,9 +65,9 @@ alt="Graphical user interface, application Description automatically generated" 
     connected to the main folder that contains the QCed or cloud masked
     ECOSTRESS files, the Composite code, and the output subfolder.
 
-| <img src="13-Creating_a_Composite_Image_images/media/image5.png"
+| <img src="Creating_a_Composite_Image_images/media/image5.png"
 style="width:2.45354in;height:2.7891in"
-alt="Graphical user interface, text, application Description automatically generated" /> | <img src="13-Creating_a_Composite_Image_images/media/image6.png"
+alt="Graphical user interface, text, application Description automatically generated" /> | <img src="Creating_a_Composite_Image_images/media/image6.png"
 style="width:2.92734in;height:2.78889in"
 alt="Graphical user interface, text, application Description automatically generated" /> |
 |----|----|
@@ -75,7 +75,7 @@ alt="Graphical user interface, text, application Description automatically gener
 8.  In the **EXPLORER** tab, find the **Composite** code and **click**
     on it to open it.
 
-> <img src="13-Creating_a_Composite_Image_images/media/image7.png"
+> <img src="Creating_a_Composite_Image_images/media/image7.png"
 > style="width:5.94619in;height:3.61218in"
 > alt="Graphical user interface, text Description automatically generated" />
 
@@ -88,7 +88,7 @@ because it will guide you to which parts you may want to change!
 
 **Examples** of comments (**green text following the \#):**
 
-<img src="13-Creating_a_Composite_Image_images/media/image80.png"
+<img src="Creating_a_Composite_Image_images/media/image80.png"
 style="width:4.03526in;height:0.81677in"
 alt="Text Description automatically generated" />
 
@@ -98,7 +98,7 @@ alt="Text Description automatically generated" />
     **"Replace_this_text_with_folder_path"** to the path of the folder
     where your QCed or cloud masked ECOSTRESS files are.
 
-<img src="13-Creating_a_Composite_Image_images/media/image9.png"
+<img src="Creating_a_Composite_Image_images/media/image9.png"
 style="width:5.77677in;height:1.22756in"
 alt="Text Description automatically generated" />
 
@@ -108,7 +108,7 @@ alt="Text Description automatically generated" />
     Path**. Now you can paste the path into your code. Make sure it is
     still **wrapped in quotes** and has **r** outside the first quote.
 
-<img src="13-Creating_a_Composite_Image_images/media/image10.png"
+<img src="Creating_a_Composite_Image_images/media/image10.png"
 style="width:3.63528in;height:3.19679in"
 alt="Graphical user interface, text, application Description automatically generated" />
 
@@ -118,13 +118,13 @@ alt="Graphical user interface, text, application Description automatically gener
     is still **wrapped in quotes** and has **r** outside the first
     quote.
 
-<img src="13-Creating_a_Composite_Image_images/media/image11.png"
+<img src="Creating_a_Composite_Image_images/media/image11.png"
 style="width:6.42836in;height:1.36603in"
 alt="Text Description automatically generated" />
 
 **Example Directory Set-Up:**
 
-<img src="13-Creating_a_Composite_Image_images/media/image12.png"
+<img src="Creating_a_Composite_Image_images/media/image12.png"
 style="width:6.36624in;height:0.94065in"
 alt="Text Description automatically generated" />
 
@@ -135,13 +135,13 @@ alt="Text Description automatically generated" />
     the output composite image to be named. Make sure the file name is
     **wrapped in quotes** and ends in **.tif**.
 
-<img src="13-Creating_a_Composite_Image_images/media/image13.png"
+<img src="Creating_a_Composite_Image_images/media/image13.png"
 style="width:5.63605in;height:1.77692in"
 alt="Text Description automatically generated" />
 
 **Example:**
 
-<img src="13-Creating_a_Composite_Image_images/media/image14.png"
+<img src="Creating_a_Composite_Image_images/media/image14.png"
 style="width:5.82936in;height:0.31389in" />
 
 12. Now the code should be set up to be run with your desired images.
@@ -150,7 +150,7 @@ style="width:5.82936in;height:0.31389in" />
     into the box with the library importing code and press
     **Shift+Return** to run it.
 
-<img src="13-Creating_a_Composite_Image_images/media/image15.png"
+<img src="Creating_a_Composite_Image_images/media/image15.png"
 style="width:5.56309in;height:1.68141in"
 alt="A picture containing shape Description automatically generated" />
 
@@ -158,14 +158,14 @@ alt="A picture containing shape Description automatically generated" />
     **select a kernel** to run your code with. Click on **Python
     Environments …**
 
-<img src="13-Creating_a_Composite_Image_images/media/image16.png"
+<img src="Creating_a_Composite_Image_images/media/image16.png"
 style="width:5.78976in;height:1.11218in"
 alt="Graphical user interface Description automatically generated with medium confidence" />
 
 14. Select the **ECOSTRESS** environment that you created, or another
     one if you have a different one you want to use.
 
-<img src="13-Creating_a_Composite_Image_images/media/image17.png"
+<img src="Creating_a_Composite_Image_images/media/image17.png"
 style="width:4.44295in;height:1.35567in"
 alt="Graphical user interface, text, application, email Description automatically generated" />
 
@@ -176,7 +176,7 @@ alt="Graphical user interface, text, application, email Description automaticall
     counting up** in the bottom left of the cell. You will know it is
     done when a **green check mark** appears.
 
-<img src="13-Creating_a_Composite_Image_images/media/image18.png"
+<img src="Creating_a_Composite_Image_images/media/image18.png"
 style="width:2.44917in;height:1.38141in"
 alt="Text Description automatically generated" />
 
@@ -190,14 +190,14 @@ alt="Text Description automatically generated" />
 
 **Example:**
 
-<img src="13-Creating_a_Composite_Image_images/media/image19.png"
+<img src="Creating_a_Composite_Image_images/media/image19.png"
 style="width:3.35064in;height:2.79292in"
 alt="Map Description automatically generated" />
 
 2.  You can also check in your **outputs** folder to make sure the file
     was **saved**.
 
-<img src="13-Creating_a_Composite_Image_images/media/image20.png"
+<img src="Creating_a_Composite_Image_images/media/image20.png"
 style="width:2.13426in;height:1.31274in"
 alt="Text Description automatically generated" />
 
